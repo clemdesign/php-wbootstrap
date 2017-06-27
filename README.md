@@ -6,6 +6,14 @@ If you use another version of php, you have a conflict with *command prompt (cmd
 
 `php-wbootstrap` make easy the switch between each version of php through Wampserver.
 
+# Environment
+
+`php-wbootstrap` is build with **gcc** of [MinGW](http://www.mingw.org/) by the command:
+
+```shell
+gcc main.c
+```
+
 # Installation
 
 1. Download the last release of this tool
