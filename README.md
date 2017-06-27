@@ -8,7 +8,7 @@ If you use another version of php, you have a conflict with *command prompt (cmd
 
 # Environment
 
-`php-wbootstrap` is build with **gcc** of [MinGW](http://www.mingw.org/) by the command:
+`php-wbootstrap` is built with **gcc** of [MinGW](http://www.mingw.org/) by the command:
 
 ```shell
 gcc main.c
